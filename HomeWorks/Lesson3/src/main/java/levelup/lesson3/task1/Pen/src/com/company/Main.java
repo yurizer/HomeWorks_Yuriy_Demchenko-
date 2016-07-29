@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+
         int i = 100;
         String str1 = "Schneider";
         String str2 = "abc-777";
